@@ -1,5 +1,7 @@
 # 2018-Arizona-Opportunity-Hack
 
+[![Inventory Manager](https://img.youtube.com/vi/bbmFLjb4gn8/0.jpg)](https://www.youtube.com/watch?v=bbmFLjb4gn8)
+
 ## Inspiration
 With Nonprofits feeding a lot of people every day becomes a lot of problems because there's a lot of manual work that needs to be done. It's our way of contributing to society be helping make their lives easier so that they can put more of their effort in managing. 
 
